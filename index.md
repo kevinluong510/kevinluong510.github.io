@@ -14,4 +14,3 @@ My repository:
 - [Github Repository](https://github.com/kevinluong510/kevinluong510.github.io)
 
 
-[![Sorting](https://bit.ly/36ui7ay)](https://youtu.be/wN1kvNUMhe0)
