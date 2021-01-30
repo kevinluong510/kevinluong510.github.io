@@ -1,12 +1,13 @@
 ---
-Title: Khoa Luong Page
+Title: Khoa Luong 
 ---
 
 ![My Picture](/pics/association_rules_machine_learning.jpg)
 
-- [Image](/pics/IML.jpg)
+This is a link to my image:
+- [How the world has changed](/pics/IML.jpg)
 
-My project:
+What project I worked on and built up:
 - [M3 Decomposition](/timeseries/index.md)
 
 My repository:
