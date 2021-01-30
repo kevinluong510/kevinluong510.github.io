@@ -6,11 +6,11 @@ Title: Khoa Luong Page
 
 - [Image](/pics/IML.jpg)
 
-This is content I have developed for my courses:
+My project:
 - [M3 Decomposition](/timeseries/index.md)
 
-THis is:
+My repository:
 - [Github Repository](https://github.com/kevinluong510/kevinluong510.github.io)
 
-Video:
-[![Sorting](https://img.youtube.com/vi//wN1kvNUMhe0/0.jpg)(https://youtu.be/wN1kvNUMhe0)
+
+[![Sorting](https://bit.ly/36ui7ay)](https://youtu.be/wN1kvNUMhe0)
