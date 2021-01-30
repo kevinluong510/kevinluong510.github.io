@@ -4,7 +4,7 @@ Title: Khoa Luong
 
 ![My Picture](/pics/association_rules_machine_learning.jpg)
 
-This is a link to my image:
+This is the link to my image:
 - [How the world has changed](/pics/IML.jpg)
 
 What project I worked on and built up:
