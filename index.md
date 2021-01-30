@@ -1,5 +1,5 @@
 ---
-Title
+Title: Khoa Luong Page
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
