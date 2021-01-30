@@ -11,4 +11,4 @@ THis is:
 - [Link](https://github.com/kevinluong510/ProgrammingAssignment2)
 
 Video:
-[![Sorting](https://img.youtube.com/vi//wN1kvNUMhe0/0.jpg)](https://youtu.be/wN1kvNUMhe0)
+[![Sorting](https://img.youtube.com/vi//wN1kvNUMhe0/0.jpg)(https://youtu.be/wN1kvNUMhe0)
